@@ -1,8 +1,8 @@
-###################################################################################################################
+#############################################################
 
 Creado por: Pedro Montoya
 
-###################################################################################################################
+#############################################################
 
 Para poder ejecutar el script de Python necesitarás realizar los siguientes pasos:
 1. Instalar Python desde la página oficial o escribir en la consola de comandos "python3" darle al Enter, se nos redirige a la tienda de Microsoft y le damos a Instalar.
